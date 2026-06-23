@@ -1,0 +1,6 @@
+{
+  "name": "Asia Telescope",
+  "description": "A completely free, serverless IPTV web player built for RST Multimedia. It parses public M3U repositories on the client-side to stream live television channels globally using hls.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
